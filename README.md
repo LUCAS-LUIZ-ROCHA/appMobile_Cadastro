@@ -1,5 +1,5 @@
-# Aplicativo cadastro de produto
-## MobileAplicativo cadastro de produto | Mobile
+# Aplicativo cadastro de produto | Mobile
+## Aplicativo cadastro de produto | Mobile
 
 Desenvolvido em React-Native | Android
 O aplicativo realiza a tarefa de cadastrar e deletar produtos. São duas telas em sua stack, A primeira chamada "NOVO PRODUTO" para preencher os campos:
